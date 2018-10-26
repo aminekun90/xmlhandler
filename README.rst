@@ -1,6 +1,6 @@
-# Python Zeroconf Publisher
+# XML Handler
 
-Simple Python script to publish your avahi/zeroconf service
+The XML handler can read and parse any xml file very efficiently in less than 1s for huge file using generators/iterators.
 
 ## Run the script
 
