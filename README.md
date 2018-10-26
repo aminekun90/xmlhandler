@@ -10,11 +10,13 @@ Make sure you have python 3.6 or above, pip 3 and virtualenv installed.
 
 ```bash
 virtualenv .env
-pip install -r requirements.txt
+
 # for windows
 .env/Script/activate.ps1
-# for linux
+# for linux , mac os
 .env/lib/activate
+
+pip install -r requirements.txt
 ```
 
 ### Configuration
