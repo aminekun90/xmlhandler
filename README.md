@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 ### Configuration
 
-## Database
+#### Database
 Edit the `run_me.ps1` for the SQL_ALCHEMY_URI
 
 
@@ -30,3 +30,7 @@ Edit the `run_me.ps1` for the SQL_ALCHEMY_URI
 run_me.ps1
 python start.py
 ```
+
+### Usage 
+
+(comming soon)
