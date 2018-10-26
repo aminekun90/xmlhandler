@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<note repeated="true" every="week">
+    <to>Amine</to>
+    <from>Anas</from>
+    <heading >
+        <object>Reminder</object>
+        <day>Satuday</day>
+        <time>12:00</time>
+        <endTime>01:00</endTime>
+        <snooz>Disabled</snooz>
+    </heading>
+    <body>Don't forget me this weekend!</body>
+</note>
